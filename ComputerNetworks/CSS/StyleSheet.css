@@ -1,0 +1,54 @@
+﻿body {
+    background-color:blue;
+    
+
+}
+.wrapper {
+    height: 610px;
+    width: 1300px;
+    background-color: azure;
+    margin:0 auto;
+    
+}
+.header {
+    height: 150px;
+    width: 1300px;
+    background-color: pink;
+}
+.menu {
+    height: 20px;
+    width: 1300px;
+    background-color:orange;
+}
+.columnleft {
+    height: 410px;
+    width: 170px;
+    float: left;
+    background-color:aqua;
+}
+
+.columnright {
+    height: 410px;
+    width: 170px;
+    float: right;
+    background-color: aqua;
+}
+.content {
+    height: 410px;
+    width: 960px;
+    background-color: red;
+    margin-left:170px;
+}
+.content1 {
+    height: 460px;
+    width: 1300px;
+    background-color:aqua;
+   margin: inherit;
+}
+p {
+    text-align: justify;
+    margin:10px;
+}
+.footer {
+    
+}
